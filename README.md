@@ -1,6 +1,6 @@
-# C++ University Projects
+# University Projects
 
-C++ projects from my studies at Gdańsk University of Technology.
+Projects from my studies at Gdańsk University of Technology.
 
 | Project | Description |
 |---|---|
