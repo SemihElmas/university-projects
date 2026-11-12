@@ -1,0 +1,13 @@
+playingFieldWidth=80
+playingFieldHeight=24
+numCars=7
+frogStartX=40
+frogStartY=23
+frogLives=3
+carSpeedMin=1
+carSpeedMax=5
+timer=30
+carColorPair=2
+frogColorPair=1
+borderColorPair=3
+friendlyCarColorPair=4
