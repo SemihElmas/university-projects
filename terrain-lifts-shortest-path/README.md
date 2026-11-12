@@ -26,5 +26,5 @@ Tested on a 1000 × 1000 map with 2,000 lifts: about 0.1 s.
 ## How to run
 ```bash
 g++ -O2 -o paths main.cpp
-./paths < examplestxt    # prints 22
+./paths < examples.txt    # prints 22
 ```
